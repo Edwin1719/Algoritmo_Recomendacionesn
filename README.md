@@ -1,5 +1,5 @@
 # Algoritmo_Recomendaciones
-![Logo](https://cdn-icons-png.flaticon.com/128/15541/15541807.png)
+![Logo](https://www.solusoft.es/Info/Imagenes/innovacion/inteligencia-artificial-big2.jpg)
 
 
 
