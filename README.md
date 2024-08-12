@@ -3,7 +3,7 @@
 
 
 
-## Analyze the attrition rate of Human Resources and transform personnel management into a competitive advantage within your organization.
+## Run a product recommendation algorithm on offer within a small Streamlit App, for a renowned e-commerce site in Colombia.
 ## Features
 
 - **Work environment and data loading:** Importing libraries and loading the database from Google Drive
