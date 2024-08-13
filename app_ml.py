@@ -19,7 +19,6 @@ from sklearn.preprocessing import MinMaxScaler
 # Configura la página de Streamlit
 st.set_page_config(page_title="Recomendaciones Ecommerce")
 
-"""## **Carga de Datos y definicion del Algoritmo**"""
 
 # Capturando el Origen de datos de Google Drive
 url = "https://docs.google.com/spreadsheets/d/e/2PACX-1vRrZH190awIttP9X9vv--e89O5L9MLLSzjlylm94iluGIPFY4x3jnAMUlZVLM0vtp2b48c1ZvDdOFzG/pub?gid=1891443343&single=true&output=csv"
