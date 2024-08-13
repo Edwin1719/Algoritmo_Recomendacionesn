@@ -6,10 +6,10 @@
 ## Run a product recommendation algorithm on offer within a small Streamlit App, for a renowned e-commerce site in Colombia.
 ## Features
 
-- **Work environment and data loading:** Importing libraries and loading the database from Google Drive
-- **Exploratory data analysis:** Identification of important Insights and inconsistent data for profiling employees with potential job abandonment
-- **structuring of the machine learning model:** Instantiation of the Random Forest algorithm and validation of application metrics
-- **Exploitation of results:** Incorporation of the results to the original Dataset and storage of the information in Google Drive
+- **Work environment and data loading:** Installation of Libraries, work environment and Database from public link
+- **Definition of Page Parameters:** Page configuration and definition of the calculation function with cosine similarity
+- **Structuring of the Streamlit Page and definition of formats:** Aggregation of the different elements that make up the product recommendation page
+- **Exploitation of results:** Displaying the results of the product recommendation algorithm
 
 
 ## **Documentation**
