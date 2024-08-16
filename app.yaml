@@ -1,2 +1,2 @@
-runtime: python39
+runtime: python3.10.14
 entrypoint: streamlit run app_ml.py
