@@ -69,7 +69,7 @@ def main():
         </div>
         """,
         unsafe_allow_html=True)
-    st.title("🛍️ Recomendacion de Ofertas Mercado Libre")
+    st.title("🛍️ Ofertas Recomendadas Mercado Libre")
     st.markdown("Descubre las mejores ofertas diarias y productos recomendados para ti.")
 
     # Barra lateral - Selección de producto
