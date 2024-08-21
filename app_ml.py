@@ -28,7 +28,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Capturando el Origen de datos de Google Drive
-url = "https://docs.google.com/spreadsheets/d/13ahiA0WjBaBDuDd6Amvmm4IiwlgNtJVYFAPflESjSmQ/pub?gid=1521761193&single=true&output=csv"
+url = "https://docs.google.com/spreadsheets/d/1BuI-0-gkhOJAHpoe95p_sAQAwbQeiI8fKDKqHrT9ahg/pub?gid=684027837&single=true&output=csv"
 
 # Carga y Lectura de la Base de datos
 data = pd.read_csv(url)
